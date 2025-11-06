@@ -29,3 +29,13 @@ CREATE TABLE products(
 
 /*Inserts*/
 
+INSERT INTO categories (category_name, photo) VALUES
+('Electronics', 'https://imgur.com/a/ZlAXBon'),
+('Books', 'https://imgur.com/a/1pZQvYw'),
+('Clothing', 'https://imgur.com/a/zSRHjpW'),
+('Home & Kitchen', 'https://imgur.com/a/v1CKiL7'),
+('Perfumes and Moisturizers', 'https://imgur.com/a/perfume-mzTyKsX');
+('Foods', 'https://imgur.com/a/jsE8BiR');
+('Fruits', 'https://imgur.com/a/AUBW576');
+('Hair Produts', 'https://imgur.com/a/BDvjv1D');
+('Makeup', 'https://imgur.com/a/makeup-BUIoB8B');
